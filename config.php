@@ -6,8 +6,8 @@ $user = 'u357300497_smsjonas';
 $pass = 'Jonas366#';
 
 // 46elks API-inställningar
-$elks_user = 'DIN_46ELKS_API_USER';
-$elks_pass = 'DIN_46ELKS_API_LÖSENORD';
+$elks_user = 'ub3a5595fb0bd91f85c51134d630fd260';
+$elks_pass = 'D1EE9E067C31165AA4D9140B02C56DEF';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=utf8mb4";
 $options = [
